@@ -219,7 +219,7 @@ export function AntonioHusPortfolio() {
           {/* Projects Section */}
           <section id="projects" className="py-20 bg-white dark:bg-gray-900">
             <div className="container mx-auto px-4">
-              <h2 className="text-4xl font-bold mb-12 text-center">Projects</h2>
+              <h2 className="text-4xl font-bold mb-12 text-center">Personal Projects</h2>
               <div className="grid md:grid-cols-2 gap-8">
                 {[
                   {
