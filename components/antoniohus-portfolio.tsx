@@ -162,7 +162,7 @@ export function AntonioHusPortfolio() {
                 {[
                   {
                     category: "Programming Languages",
-                    skills: ["C/C++", "Python", "JavaScript"]
+                    skills: ["C/C++", "Python", "JavaScript", "TypeScript"]
                   },
                   {
                     category: "Version Control",
@@ -173,12 +173,12 @@ export function AntonioHusPortfolio() {
                     skills: ["PostgreSQL", "SQLite3", "MS SQL"]
                   },
                   {
-                    category: "AI Development",
-                    skills: ["TensorFlow", "Keras API", "Comet ML"]
+                    category: "Data Science & AI Development",
+                    skills: ["TensorFlow", "Keras API", "Comet ML", "NumPy", "Matplotlib", "Sage"]
                   },
                   {
                     category: "Web Development",
-                    skills: ["Django", "React.js", "HTML", "CSS", "Bootstrap"]
+                    skills: ["Django", "React.js", "Next.js", "HTML", "CSS", "Bootstrap"]
                   },
                   {
                     category: "Desktop Development",
@@ -186,7 +186,7 @@ export function AntonioHusPortfolio() {
                   },
                   {
                     category: "DevOps",
-                    skills: ["Docker"]
+                    skills: ["Docker", "Vercel"]
                   },
                   {
                     category: "Languages",
