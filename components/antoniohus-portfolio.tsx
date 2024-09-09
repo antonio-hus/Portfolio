@@ -186,7 +186,7 @@ export function AntonioHusPortfolio() {
                   },
                   {
                     category: "DevOps",
-                    skills: ["Docker", "Vercel"]
+                    skills: ["Linux", "Shell", "Docker", "Vercel"]
                   },
                   {
                     category: "Languages",
