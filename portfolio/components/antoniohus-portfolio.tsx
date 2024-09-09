@@ -2,9 +2,9 @@
 
 import { useState, useEffect, useRef } from 'react'
 import { Button } from "@/components/ui/button"
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion"
-import { Github, Award, Linkedin, Mail, ChevronDown, Phone, ExternalLink, Moon, Sun } from "lucide-react"
+import { Github, Award, Linkedin, Mail, ChevronDown, Phone, Moon, Sun } from "lucide-react"
 import Image from 'next/image'
 
 export function AntonioHusPortfolio() {
@@ -123,13 +123,13 @@ export function AntonioHusPortfolio() {
               <div className="flex flex-col md:flex-row items-center gap-8">
                 <div className="md:w-1/2">
                   <p className="text-lg mb-4 text-gray-600 dark:text-gray-300">
-                    Hi, I'm Antonio Hus, an aspiring Software Engineer with a strong interest in computers, programming, and artificial intelligence. I enjoy the challenge of transforming ideas into interactive and visually appealing applications and websites. My education, both in college and through online resources, continually fuels my growth and skills in this field.
+                    Hi, I&apos;m Antonio Hus, an aspiring Software Engineer with a strong interest in computers, programming, and artificial intelligence. I enjoy the challenge of transforming ideas into interactive and visually appealing applications and websites. My education, both in college and through online resources, continually fuels my growth and skills in this field.
                   </p>
                   <p className="text-lg mb-6 text-gray-600 dark:text-gray-300">
                     I am keen to learn from experienced professionals and am open to collaborating on projects that push the boundaries of my knowledge. I welcome any advice, guidance, or opportunities for hands-on experience.
                   </p>
                   <p className="text-lg mb-6 text-gray-600 dark:text-gray-300">
-                    Let's connect and explore potential opportunities to work together.
+                    Let&apos;s connect and explore potential opportunities to work together.
                   </p>
                   <a
                     href="/files/Resume_Antonio_Hus.pdf"
@@ -276,7 +276,7 @@ export function AntonioHusPortfolio() {
                     <p className="text-gray-900 font-semibold dark:text-gray-300">Average Grade: 9.54 / 10.00</p>
                     <br/>
                     <p className="text-gray-600 dark:text-gray-300">Following a Bachelor of Science Degree in Computer Science, in English.
-                    Active participation in extracurricular activities such as Hackathons ( Innovation Labs Hackathon, Code4 Hackday ) and software developement related events ( Google Developer Student's Club ), but also in multiple coding contests ( Cloudflight Coding Contest, Bitdefender Coding Contest ), achieving impressive results as a Solo Team - top 30% of all worldwide participants.</p>
+                    Active participation in extracurricular activities such as Hackathons ( Innovation Labs Hackathon, Code4 Hackday ) and software developement related events ( Google Developer Student&apos;s Club ), but also in multiple coding contests ( Cloudflight Coding Contest, Bitdefender Coding Contest ), achieving impressive results as a Solo Team - top 30% of all worldwide participants.</p>
                     <br/>
                     <p className="text-gray-600 dark:text-gray-300">Relevant Coursework: 
                       - Data Structures and Algorithms ( C/C++)
@@ -299,7 +299,7 @@ export function AntonioHusPortfolio() {
                     <br/>
                     <p className="text-gray-600 dark:text-gray-300">Followed a Mathematics and Computer Programming oriented class. Learned the basics of programming and algorithmic, which allowed me to participate in various informatics contests such as the County Olympiad or IIOT International Programming Contest in Teams, achieving the first place in county.</p>
                     <br/>
-                    <p className="text-gray-600 dark:text-gray-300">During my studies, I have also actively contributed to the school's council, as part of the IT department, where I collaborated with fellow students to enhance the technological infrastructure of the school's website.</p>
+                    <p className="text-gray-600 dark:text-gray-300">During my studies, I have also actively contributed to the school&apos;s council, as part of the IT department, where I collaborated with fellow students to enhance the technological infrastructure of the school&apos;s website.</p>
                   </AccordionContent>
                 </AccordionItem>
               </Accordion>
@@ -381,7 +381,7 @@ export function AntonioHusPortfolio() {
               <h2 className="text-4xl font-bold mb-12 text-center">Contact Me</h2>
               <div className="flex flex-col items-center space-y-4">
                 <p className="text-lg mb-4 text-center max-w-2xl text-gray-600 dark:text-gray-300">
-                  I'm always open to new opportunities and collaborations. Feel free to reach out if you'd like to connect!
+                  I&apos;m always open to new opportunities and collaborations. Feel free to reach out if you&apos;d like to connect!
                 </p>
                 <div className="flex flex-wrap justify-center gap-4">
                   <Button variant="outline" size="lg" asChild className="border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700">
