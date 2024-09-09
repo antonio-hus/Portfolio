@@ -109,7 +109,7 @@ export function AntonioHusPortfolio() {
               />
             </div>
               <h1 className="text-5xl font-bold mb-4 bg-clip-text text-transparent bg-gradient-to-r from-gray-900 to-gray-600 dark:from-gray-100 dark:to-gray-300">Antonio Hus</h1>
-              <p className="text-xl mb-8 text-gray-600 dark:text-gray-300">Full-Stack Software Engineer</p>
+              <p className="text-xl mb-8 text-gray-600 dark:text-gray-300">Computer Science Student at UBB, Cluj-Napoca</p>
               <Button onClick={() => scrollTo('about')} size="lg" className="bg-gray-900 hover:bg-gray-800 text-white dark:bg-gray-100 dark:hover:bg-gray-200 dark:text-gray-900">
                 Learn More <ChevronDown className="ml-2" />
               </Button>
